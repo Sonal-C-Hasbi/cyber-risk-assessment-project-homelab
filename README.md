@@ -1,40 +1,46 @@
-# cyber-risk-assessment-project-homelab
-Cybersecurity risk assessment project based on NIST-style methodology for a simulated small business environment.
-
 # Cybersecurity Risk Assessment Project
 
 ## Overview
 
-This project demonstrates a cybersecurity risk assessment performed for a simulated small business environment.
+This project demonstrates a cybersecurity risk assessment conducted for a simulated small business environment.
 
-The goal of this project is to identify:
+The goal of the project was to identify cybersecurity risks and recommend improvements to strengthen the organization's security posture.
 
-- Assets
-- Threats
-- Vulnerabilities
-- Risks
-- Recommended security improvements
+The assessment follows risk analysis concepts inspired by the NIST Cybersecurity Framework.
 
-The assessment is inspired by risk management concepts from the NIST Cybersecurity Framework.
-
-## Scenario
+## Organization Scenario
 
 The fictional company used in this assessment is:
 
 GoldLeaf Accounting LLC
 
-A small accounting firm with 8 employees that operates using a home-office environment and cloud services.
+A small accounting firm with 8 employees working remotely from home offices using cloud services.
 
-## Project Structure
+## Project Deliverables
 
 This project includes:
 
-- Project scope
-- Asset inventory
-- Threat analysis
-- Risk register
-- Remediation recommendations
+* Project scope definition
+* Asset inventory
+* Threat analysis
+* Cybersecurity risk register
+* Remediation plan
+* NIST Cybersecurity Framework mapping
+* System architecture overview
+* Risk matrix visualization
+* Executive summary
+
+## Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+* Cybersecurity risk assessment
+* Threat identification
+* Risk analysis
+* Security control recommendations
+* Cybersecurity framework alignment
+* Security documentation
 
 ## Author
 
-Cybersecurity student building practical risk management experience.
+Cybersecurity student building practical cybersecurity risk management experience.
